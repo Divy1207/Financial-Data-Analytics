@@ -4,10 +4,10 @@ Financial Data Engineering and Analytics Project
 Project Overview
 This project aimed to transform raw financial data into clean, structured datasets for in-depth analysis. By leveraging Hadoop components and data processing techniques, we extracted valuable insights from the data.
 
-#Data Sources
+# Data Sources
 Kaggle
 
-#Data Cleaning Process
+# Data Cleaning Process
 
 ### Customers Dataset:
 Defined a schema to ensure data consistency.
