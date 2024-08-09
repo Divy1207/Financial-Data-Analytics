@@ -1,1 +1,1 @@
-# Financial Data analytics and Engineering Project
+# Financial Data Engineering and  Analytics Project
