@@ -51,6 +51,6 @@ HDFS: Distributed storage for storing raw and processed data.
 Spark: For data processing, transformations, and analysis.
 
 # Technologies and Tools
-Python, <>
-Spark, <>
+Python,
+Spark, 
 SQL
