@@ -30,11 +30,11 @@ Handled null values in date columns.
 # Data Transformation
 Potential Transformations:
 
-# Feature Engineering:
+### Feature Engineering:
 Create new features based on existing ones (e.g., delinquency rate, average delinquency amount).
 Calculate time-based features (e.g., recency of delinquency, time since last public record).
 
-# Aggregation:
+### Aggregation:
 Calculate summary statistics for different customer segments (e.g., average delinquency by loan grade).
 Identify high-risk customer groups based on delinquency and public record indicators.
 Joining with Other Datasets:
